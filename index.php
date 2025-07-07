@@ -20,20 +20,9 @@
                 <input placeholder="Senha" id="senha" type="password" class="inputPassword" required>
                 <i class="bx bxs-lock-alt"></i> 
             </div>
-
-            <div class="remember-forgot">
-                <label>
-                <input type="checkbox">
-                Lembrar senha
-                </label>
-                <a href="#">Esqueci a senha</a>
-            </div>
-
+            
             <button type="submit" class="login">Login</button>
 
-            <div class="register-link">
-                <p>Não tem uma conta? <a href="#">cadastra-se</a></p> 
-            </div>
         </form>
         
     </main>
